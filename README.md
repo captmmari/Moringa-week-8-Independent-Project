@@ -24,6 +24,8 @@ Sampling Frame
 
 Identification or description of the sampling frame to be used.
 This shall agree with the information about the target population and sampling design above. For instance, if cluster sampling is to be used in a study of equipment in buildings, then the frame should be a listing of the buildings from which the sample will be selected.
+
+
 2. Data
 Field Measurements
 
@@ -36,6 +38,8 @@ Analysis
 
 Description of how the data will be used.
 Role of normality within the worked on data.
+
+
 3. Implementation
 Implementation Plan
 
